@@ -15,6 +15,7 @@ Edit the file and copy the following YAML content after line 4:
       - main
     paths:
       - 'labs/**'
+      
 Commit the workflow changes into the main branch
 Change a file inside the folder labs
 Commit the changes into the main branch
